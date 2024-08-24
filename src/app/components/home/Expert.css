@@ -1,0 +1,9 @@
+.background-container{
+    align-items: center;
+    height: 68vh;
+    justify-content: center;
+}
+.content{
+    width:50%;
+    justify-self: flex-start;
+}
